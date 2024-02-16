@@ -12,3 +12,8 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+#chapter-19 blockquote{
+	margin-top: 0;
+	margin-bottom: 0;
+}
